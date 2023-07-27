@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/admin_list"
+    app:startDestination="@id/admin_listFragment">
+        <fragment
+            android:id="@+id/admin_listFragment"
+            android:name="ua.cn.stu.navcomponent.tabs.screens.main.tabs.QueueBooking.AdminRequestListFragment"
+            android:label="AdminList"
+            tools:layout="@layout/fragment_admin_list"
+            />
+</navigation>

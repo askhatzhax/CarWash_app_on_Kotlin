@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">CarWash2023</string>
+
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="black">Black</string>
+    <string name="yellow">Yellow</string>
+    <string name="violet">Violet</string>
+
+    <string name="this_is_box">This is a %1$s box!</string>
+    <string name="box_title">%1$s box</string>
+    <string name="go_back">Назад</string>
+    <string name="action_save">Сохранить</string>
+    <string name="action_cancel">Отменить</string>
+    <string name="action_edit_profile">Настройки профиля</string>
+    <string name="action_logout">Выйти из аккаунта</string>
+    <string name="action_sign_in">Войти</string>
+    <string name="action_create_account">Создать аккаунт</string>
+    <string name="field_username">Имя</string>
+    <string name="field_email">Логин</string>
+    <string name="field_password">Пароль</string>
+    <string name="field_created_at">Создано в</string>
+    <string name="field_repeat_password">Повторите пароль</string>
+    <string name="field_is_empty">Пусто, пожалуйста заполните</string>
+    <string name="password_mismatch">Пароли не совпадают</string>
+    <string name="account_already_exists">Такой аккаунт уже существует</string>
+    <string name="sign_up_success">Ура, вы создали аккаунт теперь вы можете войти.</string>
+    <string name="edit_profile_description">Сейчас вы можете изменить имя</string>
+    <string name="invalid_email_or_password">Неправильный логин или пароль</string>
+    <string name="enable_checkbox">Enable %1$s box</string>
+    <string name="settings_description">Enable or disable any box you want</string>
+    <string name="placeholder">-</string>
+
+    <string name="no_boxes">There aren\'t boxes you are looking for</string>
+    <string name="please_wait">Пожалуйста подождите…</string>
+    <string name="profile_title_hint">Настройки профиля</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="settings">Настройки</string>
+    <string name="profile">Профиль</string>
+    <string name="screen_dashboard" translatable="false">Dashboard</string>
+    <string name="screen_box" translatable="false">{colorName} Box</string>
+    <string name="screen_sign_in">Войти</string>
+    <string name="screen_sign_up">Создать аккаунт</string>
+    <string name="screen_profile">Профиль</string>
+    <string name="screen_settings">Настройки</string>
+    <string name="screen_edit_profile">Настройки профиля</string>
+    <string name="Map">Карта</string>
+    <string name="request">Бронирование</string>
+    <string name="service_type">Сервис</string>
+    <string name="standard_service">"стандартная мойка"</string>
+    <string name="premium_service">премиум мойка</string>
+    <string name="custom_service">обычная мойка</string>
+    <string name="date">Дата</string>
+    <string name="time">Время</string>
+    <string name="book">Добавить</string>
+    <string name="car_type">Тип машины</string>
+    <string name="carwash">Автомойки</string>
+    <string name="settings_title">Настройки</string>
+    <string name="theme_title">тема</string>
+    <string name="theme_summary">т</string>
+    <string name="call_button_title">Call-центр</string>
+    <string name="version_title">Версия приложения:</string>
+    <string name="version_number">номер версий</string>
+    <string name="language_title">Язык приложения</string>
+    <string name="more">Подробнее</string>
+    <string name="ifyoupressyouagree">Нажимая на кнопку, вы принимаете наши условия использования</string>
+    <string name="allsave">Car Wash 2023 все права защищены</string>
+</resources>

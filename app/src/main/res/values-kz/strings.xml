@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">CarWash2023</string>
+
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="black">Black</string>
+    <string name="yellow">Yellow</string>
+    <string name="violet">Violet</string>
+
+    <string name="this_is_box">This is a %1$s box!</string>
+    <string name="box_title">%1$s box</string>
+    <string name="go_back">Артқа</string>
+    <string name="action_save">Сақтау</string>
+    <string name="action_cancel">Болдырмау</string>
+    <string name="action_edit_profile">Настройки профиля</string>
+    <string name="action_logout">Шығу</string>
+    <string name="action_sign_in">Кіру</string>
+    <string name="action_create_account">Аккаунты құру</string>
+    <string name="field_username">Аты</string>
+    <string name="field_email">Логин</string>
+    <string name="field_password">Құпия сөз</string>
+    <string name="field_created_at">Құрылған кун</string>
+    <string name="field_repeat_password">Құпия сөзді қайталаңыз</string>
+    <string name="field_is_empty">Бос, толтырыңыз</string>
+    <string name="password_mismatch">Құпия сөз сәйкес келмеді</string>
+    <string name="account_already_exists">Бұл есептік жазба бұрыннан бар</string>
+    <string name="sign_up_success">Сіз тіркелгіні жасадыңыз, енді кіре аласыз.</string>
+    <string name="edit_profile_description">Енді сіз атауды өзгерте аласыз</string>
+    <string name="invalid_email_or_password">Логин немесе құпия сөз қате</string>
+    <string name="enable_checkbox">Enable %1$s box</string>
+    <string name="settings_description">Enable or disable any box you want</string>
+    <string name="placeholder">-</string>
+
+    <string name="no_boxes">There aren\'t boxes you are looking for</string>
+    <string name="please_wait">Өтінемін, күте тұрыңыз…</string>
+    <string name="profile_title_hint">Настройки профиля</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="settings">Настройки</string>
+    <string name="profile">Профиль</string>
+    <string name="screen_sign_in">Кіру</string>
+    <string name="screen_sign_up">Аккаунты құру</string>
+    <string name="screen_profile">Профиль</string>
+    <string name="screen_settings">Настройки</string>
+    <string name="screen_edit_profile">Настройки профиля</string>
+    <string name="Map">Карта</string>
+    <string name="request">Брондау</string>
+    <string name="service_type">Қызмет</string>
+    <string name="standard_service">стандартты көлік жуу</string>
+    <string name="premium_service">премиум көлік жуу</string>
+    <string name="custom_service">кәдімгі көлік жуу</string>
+    <string name="date">Күні</string>
+    <string name="time">Уақыт</string>
+    <string name="book">Жіберу</string>
+    <string name="car_type">Көлік түрі</string>
+    <string name="carwash">Көлік жуу</string>
+    <string name="settings_title">Настройки</string>
+    <string name="theme_title">Пән</string>
+    <string name="theme_summary">т</string>
+    <string name="call_button_title">Call-центр</string>
+    <string name="version_title">Қолданба нұсқасы:</string>
+    <string name="version_number">нұсқа нөмірі</string>
+    <string name="language_title">Қолданба тілі</string>
+    <string name="more">Көбірек</string>
+    <string name="ifyoupressyouagree">Түймені басу арқылы сіз біздің пайдалану шарттарын қабылдайсыз</string>
+    <string name="allsave">Car Wash 2023 барлық құқықтар сақталған</string>
+</resources>

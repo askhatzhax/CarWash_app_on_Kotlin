@@ -1,0 +1,101 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/fragmentContainer">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/text_carwash"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/carwash"
+        android:textAppearance="@style/TextAppearance.AppCompat.Headline" />
+
+    <Spinner
+        android:id="@+id/spinner_carwash"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/carwash_list" />
+
+    <TextView
+        android:id="@+id/text_service_type"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/service_type"
+        android:textAppearance="@style/TextAppearance.AppCompat.Headline" />
+
+    <RadioGroup
+        android:id="@+id/radio_group_service_type"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RadioButton
+            android:id="@+id/radio_standard"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/standard_service" />
+
+        <RadioButton
+            android:id="@+id/radio_premium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/premium_service" />
+
+        <RadioButton
+            android:id="@+id/radio_custom"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/custom_service" />
+
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/text_car_type"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/car_type"
+        android:textAppearance="@style/TextAppearance.AppCompat.Headline" />
+
+    <Spinner
+        android:id="@+id/spinner_car_type"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/car_type_list" />
+
+    <TextView
+        android:id="@+id/text_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/date"
+        android:textAppearance="@style/TextAppearance.AppCompat.Headline" />
+
+    <DatePicker
+        android:id="@+id/date_picker"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/text_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/time"
+        android:textAppearance="@style/TextAppearance.AppCompat.Headline" />
+
+    <TimePicker
+        android:id="@+id/time_picker"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/button_book"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/book" />
+
+</LinearLayout>
+</ScrollView>

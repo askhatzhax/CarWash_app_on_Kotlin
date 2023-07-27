@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="car_type_list">
+        <item>Седан</item>
+        <item>Универсал</item>
+        <item>Хэтчбек</item>
+        <item>Внедорожник</item>
+        <item>Кроссовер</item>
+    </string-array>
+    <string-array name="carwash_list">
+        <item>Car Wash A</item>
+        <item>Car Wash B</item>
+        <item>Car Wash C</item>
+        <item>Car Wash D</item>
+        <item>Car Wash E</item>
+    </string-array>
+    <string-array name="theme_options">
+        <item>Светлая</item>
+        <item>Темная</item>
+        <item>Премиум</item>
+    </string-array>
+    <string-array name="language_options">
+        <item>Русский язык</item>
+        <item>Қазақ тілі</item>
+        <item>English language</item>
+    </string-array>
+</resources>
